@@ -1,4 +1,4 @@
 # TDD - Hello, World
 
-TDD harjoittelua Go kielellä. 
+Learning Go with tests.
 
